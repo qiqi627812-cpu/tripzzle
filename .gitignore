@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+work/
+
+# Environment variables (never commit real keys)
+.env
+.env.local
+.env.*.local
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Trae
+.trae/
